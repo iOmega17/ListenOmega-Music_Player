@@ -1,6 +1,6 @@
 import loader from './loader.svg';
 import logo from './logo.svg';
-import logo1 from './logo1.png';
+import logo1 from './Logo1.png';
 
 
 export {
